@@ -1,2 +1,2 @@
 #!/bin/bash
-pyinstaller ./test.py --onefile
+pyinstaller ./pygui-yt-dlp.py --onefile
